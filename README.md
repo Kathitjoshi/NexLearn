@@ -27,8 +27,8 @@
 
 1. Go to [cloud.mongodb.com](https://cloud.mongodb.com)
 2. Click **Connect** on your Cluster0 → **Drivers** → copy the connection string
-3. Open `backend/src/main/resources/application.properties`
-4. Replace this line:
+3. Create `backend/src/main/resources/application.properties`
+4. Create this line and replace credentials wherever possible:
 ```
 spring.data.mongodb.uri=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@cluster0.XXXXX.mongodb.net/...
 ```
