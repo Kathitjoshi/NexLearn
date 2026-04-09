@@ -1,0 +1,27 @@
+# ── Frontend ──────────────────────────────────────
+NexLearn_frontend/frontend/node_modules/
+NexLearn_frontend/frontend/.next/
+NexLearn_frontend/frontend/.env
+NexLearn_frontend/frontend/.env.local
+NexLearn_frontend/frontend/.env*.local
+
+# ── Backend ───────────────────────────────────────
+NexLearn_backend/backend/target/
+NexLearn_backend/backend/*.class
+NexLearn_backend/backend/.env
+
+# ── MongoDB credentials — never commit ────────────
+**/application.properties
+
+# ── OS / IDE ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+
+# ── Logs ──────────────────────────────────────────
+*.log
+logs/
