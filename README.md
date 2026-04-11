@@ -611,14 +611,14 @@ public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Excepti
 
 | Name | Student ID | Role |
 |------|-----------|------|
-| Laharish S | PES2UG23CS298 | Full Stack Development |
-| Kathit Joshi | PES2UG23CS264 | Backend & API Design |
+| Kathit Joshi | PES2UG23CS264 | Full Stack Development |
+| Laharish S | PES2UG23CS298 | Backend & API Design |
 | Kavyansh Jain | PES2UG23CS268 | Frontend Development |
 | Kumarchandra Edupuganti | PES2UG23CS292 | Database & Documentation |
 
 **Course:** UE23CS352B - Object Oriented Analysis & Design  
 **Institution:** PES University, Electronic City Campus, Bengaluru  
-**Year:** 2024
+**Year:** 2026
 
 ---
 
