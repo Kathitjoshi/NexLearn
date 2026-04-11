@@ -11,7 +11,7 @@
 ---
 
 <!-- Screenshots / Hero -->
-![NexLearn Banner](https://via.placeholder.com/1200x400/1a1a2e/8b5cf6?text=NexLearn+Learning+Management+System)
+![NexLearn Banner](file:///C:/Users/kathi/OneDrive/Pictures/Screenshots/Screenshot%202026-04-09%20155509.png)
 
 ---
 
