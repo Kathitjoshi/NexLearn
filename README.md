@@ -11,7 +11,7 @@
 ---
 
 <!-- Screenshots / Hero -->
-![NexLearn Banner](file:///C:/Users/kathi/OneDrive/Pictures/Screenshots/Screenshot%202026-04-09%20155509.png)
+<img width="2835" height="1439" alt="Screenshot 2026-04-09 155509" src="https://github.com/user-attachments/assets/93557f8d-7e08-4a12-9730-29c60878fec0" />
 
 ---
 
